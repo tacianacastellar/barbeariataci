@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    background-color: black;
+    background-image: url(https://www.simplesagenda.com.br/site/images/barbearia.jpg);
+    background-repeat: no-repeat;
+    text-align: left;
+}
+
+.titulo {
+    margin-top: 10px;
+    margin-left: 20px;
+    color: wheat;
+}
+
+div.class {
+    text-align: center;
+}
